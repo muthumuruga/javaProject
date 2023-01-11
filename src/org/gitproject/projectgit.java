@@ -8,6 +8,10 @@ public class projectgit {
 	System.out.println("changes a");
 	System.out.println("finish1");
 	System.out.println("finish2");
+	System.out.println("finish3");
+	System.out.println("finish 4");
+	
+
 	
 	}
 
