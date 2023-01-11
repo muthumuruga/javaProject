@@ -6,8 +6,12 @@ public class projectgit {
 		System.out.println("muruga");
 	System.out.println("new added");
 	System.out.println("changes a");
+	System.out.println("finish1");
+	System.out.println("finish2");
 	System.out.println("finish3");
 	System.out.println("finish 4");
+	
+
 	
 	}
 
